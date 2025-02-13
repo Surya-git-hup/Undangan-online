@@ -1,3 +1,3 @@
 # Undangan-online
 
-mungkin masih ada kekurangan dalam website tersebut. 
+mungkin masih ada kekurangan dalam website tersebut. ini hanya sebagai contoh website undangan online saja jika ingin menggunakan template tersebut saya persilahkan.
